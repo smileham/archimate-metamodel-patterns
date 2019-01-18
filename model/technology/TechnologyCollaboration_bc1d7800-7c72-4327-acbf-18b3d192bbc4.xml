@@ -1,0 +1,5 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[mail] Mail Server"
+    id="bc1d7800-7c72-4327-acbf-18b3d192bbc4"
+    documentation="Architmate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946087&#xA;A technology collaboration represents an aggregate of two or more nodes that work together to perform collective technology behavior.&#xA;&#xA;Smileham:&#xA;I have used this element to model each node within a cluster which exposes a single service."/>

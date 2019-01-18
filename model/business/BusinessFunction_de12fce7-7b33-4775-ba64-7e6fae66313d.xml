@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Function"
+    id="de12fce7-7b33-4775-ba64-7e6fae66313d"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap08.html#_Toc489946049&#xA;A business function is a collection of business behavior based on a chosen set of criteria (typically required business resources and/or competencies), closely aligned to an organization, but not necessarily explicitly governed by the organization.&#xA;&#xA;Smileham:&#xA;This has been used to model at multiple &quot;levels&quot; within the Business Layer, for example, it could represent a stage of a Business Process, or it could represent the overall Function that part of the business performs, e.g. Human Resources could be a function of the business.&#xA;&#xA;* One business process could have many functions (eg. steps in the process)&#xA;* One business function could have many processes (e.g. HR)"/>

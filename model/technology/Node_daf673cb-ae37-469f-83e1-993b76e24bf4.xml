@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[hostname] Application Server"
+    id="daf673cb-ae37-469f-83e1-993b76e24bf4"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946084&#xA;A node represents a computational or physical resource that hosts, manipulates, or interacts with other computational or physical resources.&#xA;&#xA;Smileham:&#xA;The &quot;Node&quot; is the most generic representation of a server.  I tend to think of the node as the container for operating system, system software, artefacts and the physical hardware."/>

@@ -1,0 +1,12 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Software"
+    id="1019586c-3274-45cb-96a4-322acbdf77af">
+  <properties
+      key="Supplier"/>
+  <properties
+      key="Website"/>
+  <properties
+      key="Type"
+      value="Conceptual"/>
+</archimate:SystemSoftware>

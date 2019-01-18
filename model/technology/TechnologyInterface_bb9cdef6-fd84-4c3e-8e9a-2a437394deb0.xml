@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[mail] SMTP"
+    id="bb9cdef6-fd84-4c3e-8e9a-2a437394deb0"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946088&#xA;A technology interface represents a point of access where technology services offered by a node can be accessed.&#xA;&#xA;Smileham:&#xA;The interface by which functionality or services within a system is exposed.  This could be SFTP, SMTP, etc."/>

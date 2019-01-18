@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[local] Application Service"
+    id="f948fb96-2908-426f-bf72-95ef01f56a68"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html#_Toc302490429&#xA;An application service represents an explicitly defined exposed application behavior.&#xA;&#xA;Smileham:&#xA;Functionality internal to an application which has been exposed to another application/process, mainly via API, e.g. REST/SOAP web services."/>

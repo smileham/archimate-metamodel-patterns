@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[sv2] Mail Server"
+    id="e1e52494-332c-45c0-bdf1-eb7802dac549"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946086&#xA;System software represents software that provides or contributes to an environment for storing, executing, and using software or data deployed within it.&#xA;&#xA;Smileham:&#xA;System software represents systems running on a server which don't tend to offer &quot;user interactive&quot; interfaces, but can be considered servers, which may be serving an interactive Application.  E.g. Apache, Oracle Forms, MS SQL, Java EE, Ubuntu, etc.  From an Archimate standpoint, these are seen as the instance/installation of a platform, e.g. in a cluster there would be three instances of a &quot;System Software&quot; which are all identical in everything but name."/>

@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisation Network 10.0.X.X"
+    id="c06df4a1-8ac4-4bbc-ad0d-0603011b5d70"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946090&#xA;A communication network represents a set of structures that connects computer systems or other electronic devices for transmission, routing, and reception of data or data-based communications such as voice and video.&#xA;&#xA;Smileham:&#xA;ArchiMate is not really a tool for detailed network modelling, but can be useful for defining how the infrastructure is connected at a high level."/>

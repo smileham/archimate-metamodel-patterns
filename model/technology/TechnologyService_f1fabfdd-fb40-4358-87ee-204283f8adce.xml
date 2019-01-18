@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[mail] Mail Service"
+    id="f1fabfdd-fb40-4358-87ee-204283f8adce"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946097&#xA;A technology service represents an explicitly defined exposed technology behavior.&#xA;&#xA;Smileham:&#xA;The technology Service exposes the underlying functionality from the Technology layer."/>

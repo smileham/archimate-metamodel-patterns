@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Component"
+    id="16fc9e6c-82e1-4bbd-9380-123e52ed07ff">
+  <properties
+      key="Supplier"/>
+  <properties
+      key="Website"/>
+  <properties
+      key="Type"
+      value="Conceptual"/>
+</archimate:ApplicationComponent>

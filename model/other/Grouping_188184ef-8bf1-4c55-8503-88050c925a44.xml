@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Local Application Pattern"
+    id="188184ef-8bf1-4c55-8503-88050c925a44"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html&#xA;&#xA;Smileham:&#xA;This is the full pattern that I use to model an application.  At it's most basic, it can be compressed down to just the &quot;Application Component&quot; and &quot;Data Object&quot; with appropriate relationships to show services, data usage, etc."/>

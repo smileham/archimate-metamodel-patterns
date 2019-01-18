@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Service"
+    id="f2e354be-8233-42f0-998f-7c59ed14f100">
+  <properties
+      key="Documentation"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[web] SOAP"
+    id="b9295266-4cfa-4c5d-869a-8c22a0a44d70"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html#_Toc489946068&#xA;An application interface represents a point of access where application services are made available to a user, another application component, or a node.&#xA;&#xA;Smileham:&#xA;The interface by which functionality or services within an application is exposed.  This could be REST or SOAP if an API, or it could be a user interface if appropriate."/>

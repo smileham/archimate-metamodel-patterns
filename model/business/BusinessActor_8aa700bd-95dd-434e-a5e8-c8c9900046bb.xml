@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Actor"
+    id="8aa700bd-95dd-434e-a5e8-c8c9900046bb"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap08.html#_Toc420259530&#xA;A business actor is a business entity that is capable of performing behavior.&#xA;&#xA;Smileham:&#xA;A named individual or third party, e.g. Steven Mileham or University of Sussex"/>

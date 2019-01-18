@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual Server"
+    id="689fda8d-2e59-45ec-8369-15d64327ab79"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946085&#xA;A device is a physical IT resource upon which system software and artifacts may be stored or deployed for execution.&#xA;&#xA;Smileham:&#xA;The usage of ArchiMate and Archi models should be derived from the questions that you want to answer.  When I first began modelling, I wanted to seperate the logical server (node) from the physical or virtual server (device) on which they were executing.  This seperation allows an architect to query the model to find where all particular makes/models/configurations of physical devices are used in the architecture."/>

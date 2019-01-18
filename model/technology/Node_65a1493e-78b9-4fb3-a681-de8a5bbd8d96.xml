@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brand New Heavy"
+    id="65a1493e-78b9-4fb3-a681-de8a5bbd8d96"
+    documentation="Documentation for Brand new Heavy">
+  <properties
+      key="Kittens"
+      value="Badgers"/>
+</archimate:Node>

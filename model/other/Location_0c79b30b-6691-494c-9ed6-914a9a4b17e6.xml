@@ -1,0 +1,5 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brighton"
+    id="0c79b30b-6691-494c-9ed6-914a9a4b17e6"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap04.html#_Toc489945987&#xA;A location is a place or position where structure elements can be located or behavior can be performed.&#xA;&#xA;Smileham:&#xA;Used to indicate geography of an architecture.  Useful for Privacy Impact Assessment to highlight UK, EU and US components."/>

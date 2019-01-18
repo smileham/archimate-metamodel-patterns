@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process"
+    id="faf5418e-cfe6-4ddc-99e2-76246b36ff4b"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap08.html#_Toc420259536&#xA;A business process represents a sequence of business behaviors that achieves a specific outcome such as a defined set of products or business services.&#xA;&#xA;Smileham:&#xA;The business process should cover the &quot;What&quot; but not the &quot;How&quot;, for example, the business produce a timetable, but they could do that on paper or using an application, at this level it is more the thing they are doing, than how they do it. E.g. Schedule Time table, Teach Lecture, etc."/>
