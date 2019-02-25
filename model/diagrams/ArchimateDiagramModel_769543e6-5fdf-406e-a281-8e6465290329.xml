@@ -323,7 +323,7 @@
         font="1|Open Sans|7.8|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
         textAlignment="1"
         fillColor="#ffffff"
-        content="Access relationship&#xD;&#xA;&#xD;&#xA;(Component reads/writes (donated by arrow) the artefact/data)"
+        content="Access relationship&#xD;&#xA;&#xD;&#xA;(Component reads/writes (denoted by arrow) the artefact/data)"
         textPosition="1"
         borderType="1">
       <sourceConnections
