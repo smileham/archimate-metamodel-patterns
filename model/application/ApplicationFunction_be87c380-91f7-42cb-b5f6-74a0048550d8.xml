@@ -1,0 +1,24 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[sf] Shield: Audit"
+    id="be87c380-91f7-42cb-b5f6-74a0048550d8"
+    documentation="Field Audit Trail lets you define a policy to retain archived field history data up to 10 years from the time the data was archived. This feature helps you comply with industry regulations related to audit capability and data retention.">
+  <properties
+      key="ID"
+      value="SFAU"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="IT"/>
+  <properties
+      key="Vendor"
+      value="[Salesforce](https://developer.salesforce.com/docs/atlas.en-us.field_history_retention.meta/field_history_retention/field_audit_trail.htm)"/>
+  <properties
+      key="Standards Class"
+      value="Proposed Standard"/>
+  <properties
+      key="Creation Date"
+      value="13/09/2018"/>
+</archimate:ApplicationFunction>

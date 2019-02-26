@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conga Conductor &lt;&lt;Document Automation>>"
+    id="b74bed12-d381-4b2d-b7fb-866802a1d7e5"
+    documentation="Conga Conductor is an optional, paid add-on to Conga Composer that launches on-demand or scheduled Conga Composer solutions in batches.">
+  <properties
+      key="ID"
+      value="CGCD"/>
+  <properties
+      key="Category"
+      value="Physical Application"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="Fundraising"/>
+  <properties
+      key="Vendor"
+      value="[Conga](https://support.getconga.com/Conga_Composer/Conga_Conductor)"/>
+  <properties
+      key="Standards Class"
+      value="Proposed Standard"/>
+  <properties
+      key="Creation Date"
+      value="22/08/2018"/>
+  <properties
+      key="Review Date"
+      value="22/08/2018"/>
+</archimate:ApplicationComponent>

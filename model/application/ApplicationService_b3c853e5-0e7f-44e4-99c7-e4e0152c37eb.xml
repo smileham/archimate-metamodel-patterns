@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[sf] Salesforce Enterprise API"
+    id="b3c853e5-0e7f-44e4-99c7-e4e0152c37eb"
+    documentation="[Salesforce SOAP API Documentation](https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_quickstart_intro.htm)"/>

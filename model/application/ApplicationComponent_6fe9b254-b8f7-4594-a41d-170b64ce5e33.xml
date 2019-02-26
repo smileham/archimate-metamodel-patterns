@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[sf] Sales Cloud"
+    id="6fe9b254-b8f7-4594-a41d-170b64ce5e33">
+  <properties
+      key="ID"
+      value="SFSC"/>
+  <properties
+      key="Category"
+      value="Physical Application"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="IT"/>
+  <properties
+      key="Vendor"
+      value="[Salesforce](https://www.salesforce.com/uk/products/sales-cloud/overview/)"/>
+  <properties
+      key="Standards Class"
+      value="Proposed Standard"/>
+  <properties
+      key="Creation Date"
+      value="10/09/2018"/>
+  <properties
+      key="Review Date"
+      value="-"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[sf] Salesforce Org"
+    id="7fb45d04-c594-402c-9e85-dfec26ebcbb7"
+    documentation="The Salesforce domain licenced to support the CRM application.">
+  <properties
+      key="ID"
+      value="SFORG"/>
+  <properties
+      key="Category"
+      value="Physical Application"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="IT"/>
+  <properties
+      key="Vendor"
+      value="[Salesforce](https://www.salesforce.org)"/>
+  <properties
+      key="Standards Class"
+      value="Standard"/>
+  <properties
+      key="Creation Date"
+      value="10/09/2018"/>
+  <properties
+      key="Review Date"
+      value="-"/>
+</archimate:ApplicationComponent>

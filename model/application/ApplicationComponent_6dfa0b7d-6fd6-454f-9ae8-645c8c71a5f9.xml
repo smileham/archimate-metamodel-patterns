@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salesforce Data Loader"
+    id="6dfa0b7d-6fd6-454f-9ae8-645c8c71a5f9"
+    documentation="The Data Loader is an easy to use graphical tool that helps you to get your data into Salesforce objects. The Data Loader can also be used to extract data from database objects into any of the destinations mentioned above. You can even use the Data Loader to perform bulk deletions by exporting the ID fields for the data you wish to delete and using that source to specify deletions through the Data Loader.">
+  <properties
+      key="ID"
+      value="SFDL"/>
+  <properties
+      key="Category"
+      value="Physical Application"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="IT"/>
+  <properties
+      key="Vendor"
+      value="[Salesforce](https://developer.salesforce.com/page/Data_Loader)"/>
+  <properties
+      key="Standards Class"
+      value="Standard"/>
+  <properties
+      key="Creation Date"
+      value="10/09/2018"/>
+  <properties
+      key="Review Date"
+      value="-"/>
+</archimate:ApplicationComponent>

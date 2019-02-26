@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[sf] Salesforce Bulk API"
+    id="fd7c415f-7ec7-444b-8145-e8775ea37efb"
+    documentation="[Salesforce Bulk API Documentation](https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/asynch_api_intro.htm)"/>

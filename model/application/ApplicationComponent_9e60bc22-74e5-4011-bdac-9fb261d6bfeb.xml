@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conga Action Grid &lt;&lt;Salesforce Data Management>>"
+    id="9e60bc22-74e5-4011-bdac-9fb261d6bfeb"
+    documentation="Conga ActionGrid enables Salesforce customers to manage, visualize, and navigate data more efficiently - and all from a single, actionable grid.">
+  <properties
+      key="ID"
+      value="CGAG"/>
+  <properties
+      key="Category"
+      value="Physical Application"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="IT"/>
+  <properties
+      key="Vendor"
+      value="[Conga](https://support.getconga.com/Conga_ActionGrid)"/>
+  <properties
+      key="Standards Class"
+      value="Proposed Standard"/>
+  <properties
+      key="Creation Date"
+      value="10/09/2018"/>
+  <properties
+      key="Review Date"
+      value="-"/>
+</archimate:ApplicationComponent>

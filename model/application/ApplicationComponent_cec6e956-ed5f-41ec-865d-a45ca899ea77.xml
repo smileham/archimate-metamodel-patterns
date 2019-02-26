@@ -1,0 +1,29 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[crm] CRM Application"
+    id="cec6e956-ed5f-41ec-865d-a45ca899ea77">
+  <properties
+      key="ID"
+      value="CRM"/>
+  <properties
+      key="Category"
+      value="Physical Application"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="Marketing"/>
+  <properties
+      key="Vendor"
+      value="[Salesforce](https://www.salesforce.org)"/>
+  <properties
+      key="Standards Class"
+      value="Proposed Standard"/>
+  <properties
+      key="Creation Date"
+      value="20/08/2018"/>
+  <properties
+      key="Review Date"
+      value="20/08/2018"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[sf] Lightning Platform API"
+    id="317f63d8-ad88-4400-8941-dbcf9e3963b7"
+    documentation="[Salesforce REST API](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_what_is_rest_api.htm)"/>

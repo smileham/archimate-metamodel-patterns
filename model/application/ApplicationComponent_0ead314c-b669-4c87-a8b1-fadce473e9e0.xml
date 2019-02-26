@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conga Composer &lt;&lt;Document Generation>>"
+    id="0ead314c-b669-4c87-a8b1-fadce473e9e0"
+    documentation="Conga Composer enables Salesforce customers to customize, streamline and scale their document generation and reporting for unlimited use cases.  With Composer, users can create and distribute sophisticated documents in Word, PowerPoint, Excel, HTML email and PDF forms using data from any Salesforce object.">
+  <properties
+      key="ID"
+      value="CNGA"/>
+  <properties
+      key="Category"
+      value="Physical Application"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="Fundraising"/>
+  <properties
+      key="Vendor"
+      value="[Conga](https://support.getconga.com/Conga_Composer)"/>
+  <properties
+      key="Standards Class"
+      value="Proposed Standard"/>
+  <properties
+      key="Creation Date"
+      value="20/08/2018"/>
+  <properties
+      key="Review Date"
+      value="20/08/2018"/>
+</archimate:ApplicationComponent>

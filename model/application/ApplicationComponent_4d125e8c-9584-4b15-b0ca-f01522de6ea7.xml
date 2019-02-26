@@ -1,0 +1,30 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[sf] Service Cloud"
+    id="4d125e8c-9584-4b15-b0ca-f01522de6ea7"
+    documentation="Service Cloud allows users to automate service processes, streamline workflows and find key articles, topics and experts to support the agent.">
+  <properties
+      key="ID"
+      value="SFSC"/>
+  <properties
+      key="Category"
+      value="Physical Application"/>
+  <properties
+      key="Source"
+      value="CRM Project"/>
+  <properties
+      key="Owner"
+      value="IT"/>
+  <properties
+      key="Vendor"
+      value="[Salesforce](https://www.salesforce.com/uk/products/service-cloud/overview/)"/>
+  <properties
+      key="Standards Class"
+      value="Standard"/>
+  <properties
+      key="Creation Date"
+      value="07/09/2018"/>
+  <properties
+      key="Review Date"
+      value="07/09/2018"/>
+</archimate:ApplicationComponent>
