@@ -1,4 +1,5 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technology Function"
-    id="14eb090a-41e7-482e-b881-e6ca8490af0a"/>
+    id="14eb090a-41e7-482e-b881-e6ca8490af0a"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc371413420&#xD;&#xA;A technology function represents a collection of technology behavior that can be performed by a node.&#xD;&#xA;&#xD;&#xA;Smileham:&#xD;&#xA;An internal function of the system, e.g. Transcode, Copy, Format"/>
