@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Component"
-    id="16fc9e6c-82e1-4bbd-9380-123e52ed07ff">
+    id="16fc9e6c-82e1-4bbd-9380-123e52ed07ff"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html#_Toc302490422&#xD;&#xA;An application component represents an encapsulation of application functionality aligned to implementation structure, which is modular and replaceable. It encapsulates its behavior and data, exposes services, and makes them available through interfaces.&#xD;&#xA;&#xD;&#xA;Smileham:&#xD;&#xA;An application component represents an interactive application which can be used to fulfil a purpose by the business.  It may be realised by an &quot;artifact&quot; running on a PC, or it could be a distinct set of functionality supported by a web platform.">
   <properties
       key="Supplier"/>
   <properties

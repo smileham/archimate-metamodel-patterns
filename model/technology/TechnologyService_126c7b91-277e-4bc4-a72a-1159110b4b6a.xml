@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technology Service"
-    id="126c7b91-277e-4bc4-a72a-1159110b4b6a"/>
+    id="126c7b91-277e-4bc4-a72a-1159110b4b6a"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946097&#xD;&#xA;A technology service represents an explicitly defined exposed technology behavior.&#xD;&#xA;&#xD;&#xA;Smileham:&#xD;&#xA;The technology Service exposes the underlying functionality from the Technology layer."/>

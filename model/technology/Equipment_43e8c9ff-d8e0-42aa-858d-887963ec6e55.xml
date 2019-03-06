@@ -1,0 +1,5 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipment"
+    id="43e8c9ff-d8e0-42aa-858d-887963ec6e55"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap11.html#_Toc489946107&#xD;&#xA;Equipment represents one or more physical machines, tools, or instruments that can create, use, store, move, or transform materials.&#xD;&#xA;&#xD;&#xA;Smileham:&#xD;&#xA;The Equipment element can be used to model other types of devices, e.g. MFDs, Printers, Cameras, etc."/>

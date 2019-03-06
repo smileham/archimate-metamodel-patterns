@@ -1,0 +1,5 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility"
+    id="782bbce3-7561-40be-adeb-47859623cc06"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap11.html#_Toc489946108&#xD;&#xA;A facility represents a physical structure or environment.&#xD;&#xA;&#xD;&#xA;Smileham:&#xD;&#xA;Physical building or location, e.g. server room, office building, room, etc."/>

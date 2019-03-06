@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Node"
-    id="5925a803-ee47-4348-b770-53d635ff7144"/>
+    id="5925a803-ee47-4348-b770-53d635ff7144"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946084&#xD;&#xA;A node represents a computational or physical resource that hosts, manipulates, or interacts with other computational or physical resources.&#xD;&#xA;&#xD;&#xA;Smileham:&#xD;&#xA;The &quot;Node&quot; is the most generic representation of a server.  I tend to think of the node as the container for operating system, system software, artefacts and the physical hardware."/>
