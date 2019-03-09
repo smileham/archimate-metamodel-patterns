@@ -201,7 +201,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="00ffd820-4fa4-460f-90d2-3720b5abced6">
+      id="00ffd820-4fa4-460f-90d2-3720b5abced6"
+      targetConnections="cb0d6be7-29e1-4879-abd6-c4267c92fa94">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f36ec899-d927-4d2e-927b-a4ebf9b38ffe"
@@ -246,5 +247,20 @@
     <archimateElement
         xsi:type="archimate:Equipment"
         href="Equipment_43e8c9ff-d8e0-42aa-858d-887963ec6e55.xml#43e8c9ff-d8e0-42aa-858d-887963ec6e55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="26cc55ce-45bd-489f-960b-5b5b81ba0066"
+      textAlignment="1"
+      content="This is a note">
+    <sourceConnections
+        id="cb0d6be7-29e1-4879-abd6-c4267c92fa94"
+        source="26cc55ce-45bd-489f-960b-5b5b81ba0066"
+        target="00ffd820-4fa4-460f-90d2-3720b5abced6"/>
+    <bounds
+        x="588"
+        y="276"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[archi] jArchi Plugin"
+    id="873d48ae-092f-4110-a6a6-e501c98fad45"
+    documentation="jArchi is a JavaScript-based scripting plug-in built on the [Nashorn](https://www.oracle.com/technetwork/articles/java/jf14-nashorn-2126515.html) engine. This means that the end-user can write code, or simple scripts, using JavaScript, and this is then translated into the underlying Java code that drives Archi.">
+  <properties
+      key="Website"
+      value="https://www.archimatetool.com/blog/2018/07/02/jarchi/"/>
+  <properties
+      key="Licence"
+      value="Open Source (HUMANS)"/>
+</archimate:ApplicationFunction>
