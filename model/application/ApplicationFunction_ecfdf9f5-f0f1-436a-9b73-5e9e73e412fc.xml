@@ -1,0 +1,11 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[archi] Export to Markdown"
+    id="ecfdf9f5-f0f1-436a-9b73-5e9e73e412fc">
+  <properties
+      key="Website"
+      value="https://gist.github.com/smileham/578bbbb88dc0ed5a1403f3b98711ec25"/>
+  <properties
+      key="Licence"
+      value="Open Source"/>
+</archimate:ApplicationFunction>

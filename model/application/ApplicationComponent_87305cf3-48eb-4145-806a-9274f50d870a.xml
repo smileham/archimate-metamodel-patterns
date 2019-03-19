@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[archi] Archi 4.3.3"
+    id="87305cf3-48eb-4145-806a-9274f50d870a"
+    documentation="Archi fulfils the needs of most Enterprise Architects and associated stakeholders, and has been designed to elegantly provide the main features required for ArchiMate modelling and is used globally by banks, insurance companies, industry, EA consultants, training organisations, universities, and students. It is the world’s most popular ArchiMate modelling tool and is downloaded between two and three thousand times every month.">
+  <properties
+      key="Website"
+      value="https://www.archimatetool.com/"/>
+  <properties
+      key="Licence"
+      value="Open Source (MIT)"/>
+</archimate:ApplicationComponent>
