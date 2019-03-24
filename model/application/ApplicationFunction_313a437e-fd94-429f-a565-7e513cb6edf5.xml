@@ -1,0 +1,11 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[archi] Export to CSV"
+    id="313a437e-fd94-429f-a565-7e513cb6edf5">
+  <properties
+      key="Website"
+      value="https://gist.github.com/smileham/15c445b17a92bd6f5dc1508e573bcd8a"/>
+  <properties
+      key="Licence"
+      value="Open Source"/>
+</archimate:ApplicationFunction>

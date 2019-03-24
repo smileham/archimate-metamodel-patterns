@@ -373,7 +373,7 @@
           source="f01e8704-9787-457c-a697-2c13ecdf1c00"
           target="0d0f352c-853d-4b88-b7b6-ac9ecaa73a6e">
         <bendpoints
-            startX="204"
+            startX="180"
             startY="48"
             endY="54"/>
         <archimateRelationship
@@ -386,7 +386,7 @@
           source="f01e8704-9787-457c-a697-2c13ecdf1c00"
           target="926be99a-ca93-43d6-9eff-b76fa0da4ed1">
         <bendpoints
-            startX="396"
+            startX="372"
             startY="48"
             endY="54"/>
         <archimateRelationship
@@ -399,7 +399,7 @@
           source="f01e8704-9787-457c-a697-2c13ecdf1c00"
           target="36287070-a415-45c2-aff7-143cfdf4c844">
         <bendpoints
-            startX="864"
+            startX="840"
             startY="48"
             endY="54"/>
         <archimateRelationship

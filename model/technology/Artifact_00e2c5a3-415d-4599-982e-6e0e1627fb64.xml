@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="papaparse.min.js &lt;&lt;Script>>"
+    id="00e2c5a3-415d-4599-982e-6e0e1627fb64"
+    documentation="Papa Parse is the fastest in-browser CSV (or delimited text) parser for JavaScript. It is reliable and correct according to RFC 4180.">
+  <properties
+      key="Website"
+      value="https://www.papaparse.com/"/>
+  <properties
+      key="Licence"
+      value="Open Source (MIT)"/>
+</archimate:Artifact>

@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Export to CSV-relationship.csv &lt;&lt;CSV>>"
+    id="72d53cb8-af37-4ee2-a011-d3e2ca74b9b0"
+    documentation="All relationships contained in the Export to CSV view in CSV format (including custom properties)"/>
