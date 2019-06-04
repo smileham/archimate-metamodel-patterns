@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Vulnerability>> Vulnerability"
+    id="69d92e30-3c84-4d10-a5ee-cecae382652c"
+    documentation="Vulnerability. Modelled as assessment specialisation, because it is result of analysing weaknesses in architecture.&#xD;&#xA;&#xD;&#xA;Weakness which allows attacker to threat asset. Also represents probability that asset wouldn't be able to resist to threat agent’s actions."/>

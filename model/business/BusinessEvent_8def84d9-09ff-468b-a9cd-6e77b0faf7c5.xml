@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ThreatEvent>> Attack Method"
+    id="8def84d9-09ff-468b-a9cd-6e77b0faf7c5"
+    documentation="Threat event (event that can influence asset)/Loss event (event that causes damage to asset). This one modelled by any business construct. &#xD;&#xA;&#xD;&#xA;Event which can cause some effect on asset. Attack - specific type of threat events with attacker as threat agent."/>

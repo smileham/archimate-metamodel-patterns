@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ThreatAgent>> Threat Actor"
+    id="f5f1a875-d574-4bec-8285-8f0fe5bfea18"
+    documentation="Threat agent. Usually modelled by active structure elements such as business actor, business role, application component etc.&#xD;&#xA;&#xD;&#xA;Literally anything that can bypass security and cause harm. Can be intentional (attacker) or unintentional (executing wrong command).&#xD;&#xA;"/>

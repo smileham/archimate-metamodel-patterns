@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Requirement"
+    id="c26dd836-06ec-4225-a856-b565a084de08"
+    documentation="Security requirement/control measure. Modelled by requirement construct (control measure)&#xD;&#xA;&#xD;&#xA;Abstract security requirement that must be met by system"/>

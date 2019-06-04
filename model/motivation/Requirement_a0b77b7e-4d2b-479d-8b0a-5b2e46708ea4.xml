@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ControlMeasure>> Control Measure"
+    id="a0b77b7e-4d2b-479d-8b0a-5b2e46708ea4"
+    documentation="Same as security requirement but not that abstract, this one is more about implementation."/>

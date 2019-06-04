@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;LossEvent>> Loss Event"
+    id="b581c305-e227-40c2-9f98-6f999754efb0"
+    documentation="Any event that led to asset damage or loss"/>
