@@ -7,11 +7,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="797d3b87-aa76-48c6-a90b-2d45d8f73767"
       textAlignment="1"
-      content="[Zaitsev Artem Comparison of STS and ArchiMate Risk and Security Overlay](https://pdfs.semanticscholar.org/b27d/b795eef9a515e0c801370e8029c5d8046ac7.pdf)">
+      content="[How to Model Enterprise Risk Management and Security with the ArchiMate Language](https://publications.opengroup.org/w172)&#xD;&#xA;[Zaitsev Artem Comparison of STS and ArchiMate Risk and Security Overlay](https://pdfs.semanticscholar.org/b27d/b795eef9a515e0c801370e8029c5d8046ac7.pdf)">
     <bounds
         x="24"
         y="12"
-        width="721"
+        width="925"
         height="49"/>
   </children>
   <children
