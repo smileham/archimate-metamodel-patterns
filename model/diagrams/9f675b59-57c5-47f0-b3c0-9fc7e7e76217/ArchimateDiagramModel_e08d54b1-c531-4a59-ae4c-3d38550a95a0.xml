@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pattern"
+    name="Pattern - Security Template"
     id="e08d54b1-c531-4a59-ae4c-3d38550a95a0">
   <children
       xsi:type="archimate:DiagramModelNote"

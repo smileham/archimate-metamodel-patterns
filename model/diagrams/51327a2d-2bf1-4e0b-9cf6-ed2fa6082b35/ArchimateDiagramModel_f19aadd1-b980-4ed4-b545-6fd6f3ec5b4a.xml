@@ -258,9 +258,9 @@
         source="26cc55ce-45bd-489f-960b-5b5b81ba0066"
         target="00ffd820-4fa4-460f-90d2-3720b5abced6"/>
     <bounds
-        x="588"
-        y="276"
-        width="185"
-        height="80"/>
+        x="492"
+        y="264"
+        width="109"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
