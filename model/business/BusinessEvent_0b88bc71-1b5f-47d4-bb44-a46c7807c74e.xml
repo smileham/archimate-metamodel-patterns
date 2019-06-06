@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ThreatEvent>> Man in the Middle"
+    id="0b88bc71-1b5f-47d4-bb44-a46c7807c74e"
+    documentation="In cryptography and computer security, a man-in-the-middle attack (MITM) is an attack where the attacker secretly relays and possibly alters the communications between two parties who believe they are directly communicating with each other."/>

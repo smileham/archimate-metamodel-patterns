@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ThreatAgent>> Insider Threat"
+    id="3d48d4f5-5a5e-4b88-a9dd-b8e3982038a2"
+    documentation="Attackers operating inside your organization are typically disgruntled employees or ex-employees either looking for revenge or some type of financial gain. They sometimes collaborate with other threat actors, such as organized crime or government sponsored hackers, out of a sense of loyalty, or in exchange for money or prestige."/>

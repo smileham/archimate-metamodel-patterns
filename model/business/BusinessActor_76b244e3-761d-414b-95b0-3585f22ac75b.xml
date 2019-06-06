@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ThreatAgent>> Internal User Error"
+    id="76b244e3-761d-414b-95b0-3585f22ac75b"
+    documentation="Users making mistakes with configurations are actually the largest threat organizations face. These threat actors exist largely due to failing to design flaws out of the network, or by providing privileges to individuals who should not have them. Internal user errors have been known to bring down critical resources such as firewalls, routers, and servers, causing widespread or departmental company outages."/>

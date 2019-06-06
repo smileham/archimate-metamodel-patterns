@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ThreatAgent>> Opportunistic"
+    id="9d5536e0-16ac-4e0c-8ef5-7ad8db61aaa4"
+    documentation="These attackers are usually amateur criminals, often referred to as script kiddies, who are driven by the desire for notoriety. Sometimes, however, they can legitimate security researchers trying to help organizations find and close security vulnerabilities, or even professional hackers (sometimes known as gray hat hackers) looking to profit from finding and exposing flaws and exploits in network systems and devices."/>

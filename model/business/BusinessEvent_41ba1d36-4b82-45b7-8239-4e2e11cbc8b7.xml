@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ThreatEvent>> Code Injection"
+    id="41ba1d36-4b82-45b7-8239-4e2e11cbc8b7"
+    documentation="Code injection is the exploitation of a computer bug that is caused by processing invalid data. Injection is used by an attacker to introduce (or &quot;inject&quot;) code into a vulnerable computer program and change the course of execution. e.g. SQL Injection, Cross Site Scripting, etc"/>
