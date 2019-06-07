@@ -938,7 +938,7 @@
         x="1176"
         y="72"
         width="277"
-        height="385"/>
+        height="457"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="93204b29-ab40-4c7b-9628-fb5450ca0658"
@@ -1070,19 +1070,19 @@
           xsi:type="archimate:Principle"
           href="Principle_cf34d0ec-f38e-419e-85d6-5f41b219f566.xml#cf34d0ec-f38e-419e-85d6-5f41b219f566"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="96368daa-d297-41cc-a693-b91f73f00202"
+        textAlignment="1"
+        content="[OWASP Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)">
+      <bounds
+          x="12"
+          y="384"
+          width="253"
+          height="61"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_3290ac33-0616-41ff-9e52-d285fa060299.xml#3290ac33-0616-41ff-9e52-d285fa060299"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="96368daa-d297-41cc-a693-b91f73f00202"
-      textAlignment="1"
-      content="[OWASP Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)">
-    <bounds
-        x="960"
-        y="12"
-        width="493"
-        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>
