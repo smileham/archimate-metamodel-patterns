@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;Vulnerability>> Open Security Model"
+    id="a3041e63-c683-45fa-b3fa-bd079272baf1"
+    documentation="Access to CRM data has not been limited by Role Profile."/>

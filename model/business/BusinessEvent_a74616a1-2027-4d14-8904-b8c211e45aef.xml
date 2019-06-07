@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt;ThreatEvent>> Access to Asset"
+    id="a74616a1-2027-4d14-8904-b8c211e45aef"
+    documentation="Physical or logical access to the asset at risk, e.g. login to platform or access to infrastructure."/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fail Securely"
+    id="d6bcaee1-9df5-41b4-b5f3-9a65bf18a71f"
+    documentation="Applications regularly fail to process transactions for many reasons. How they fail can determine if an application is secure or not."/>

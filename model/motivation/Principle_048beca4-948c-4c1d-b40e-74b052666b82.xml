@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principle of Defence in Depth"
+    id="048beca4-948c-4c1d-b40e-74b052666b82"
+    documentation="The principle of defense in depth suggests that where one control would be reasonable, more controls that approach risks in different fashions are better. Controls, when used in depth, can make severe vulnerabilities extraordinarily difficult to exploit and thus unlikely to occur.&#xD;&#xA;&#xD;&#xA;With secure coding, this may take the form of tier-based validation, centralized auditing controls, and requiring users to be logged on all pages.&#xD;&#xA;&#xD;&#xA;For example, a flawed administrative interface is unlikely to be vulnerable to anonymous attack if it correctly gates access to production management networks, checks for administrative user authorization, and logs all access."/>

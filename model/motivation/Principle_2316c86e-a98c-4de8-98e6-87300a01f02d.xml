@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avoid Security by Obscurity"
+    id="2316c86e-a98c-4de8-98e6-87300a01f02d"
+    documentation="Security through obscurity is a weak security control, and nearly always fails when it is the only control. This is not to say that keeping secrets is a bad idea, it simply means that the security of key systems should not be reliant upon keeping details hidden.&#xD;&#xA;&#xD;&#xA;For example, the security of an application should not rely upon knowledge of the source code being kept secret. The security should rely upon many other factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls.&#xD;&#xA;&#xD;&#xA;A practical example is Linux. Linux’s source code is widely available, and yet when properly secured, Linux is a hardy, secure and robust operating system."/>
