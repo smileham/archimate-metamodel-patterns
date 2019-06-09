@@ -938,7 +938,7 @@
         x="1176"
         y="72"
         width="277"
-        height="457"/>
+        height="493"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="93204b29-ab40-4c7b-9628-fb5450ca0658"
@@ -1077,7 +1077,7 @@
         content="[OWASP Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)">
       <bounds
           x="12"
-          y="384"
+          y="420"
           width="253"
           height="61"/>
     </children>

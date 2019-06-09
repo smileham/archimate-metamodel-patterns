@@ -1,5 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&lt;&lt;LossEvent>> Employee can download complete list of all customers"
+    name="&lt;&lt;LossEvent>> Employee can download extract all customer data"
     id="9abf4a51-0b75-4d97-bf9b-6f3d838cc9b8"
     documentation="Any event that led to asset damage or loss"/>
