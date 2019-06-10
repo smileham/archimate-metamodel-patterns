@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Threat Scenarios"
+    id="e823ef53-6c14-49d1-9662-82ed78162ef9"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c016cf1b-6e04-4062-b69b-f5d4545f0f12.xml#c016cf1b-6e04-4062-b69b-f5d4545f0f12"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_6dc21555-beaf-4cc8-9ef9-037d316eaf08.xml#6dc21555-beaf-4cc8-9ef9-037d316eaf08"/>
+</archimate:AccessRelationship>

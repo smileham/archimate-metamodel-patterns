@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consequence"
+    id="417e0d67-6db4-4b98-974b-3739dab1915e"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c5c4e1bb-f236-4798-8d1b-618c78d45c20.xml#c5c4e1bb-f236-4798-8d1b-618c78d45c20"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_6dc21555-beaf-4cc8-9ef9-037d316eaf08.xml#6dc21555-beaf-4cc8-9ef9-037d316eaf08"/>
+</archimate:AccessRelationship>
