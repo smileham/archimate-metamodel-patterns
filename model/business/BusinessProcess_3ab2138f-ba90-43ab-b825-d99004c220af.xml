@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C) Information Systems Architecture"
-    id="3ab2138f-ba90-43ab-b825-d99004c220af"/>
+    id="3ab2138f-ba90-43ab-b825-d99004c220af"
+    documentation="Working with the Information Governance function to understand the data used in our processes and the applications which support them."/>

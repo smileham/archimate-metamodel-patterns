@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="F) Migration Planning"
-    id="7a04f030-fd32-4aca-9381-9e476263495a"/>
+    id="7a04f030-fd32-4aca-9381-9e476263495a"
+    documentation="Break down the roadmap into deliverable work packages and transitional architectures."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="E) Opportunities &amp; Solutions"
-    id="21455d22-85c8-43db-a534-d5aaed100679"/>
+    id="21455d22-85c8-43db-a534-d5aaed100679"
+    documentation="Analysis of our requirements, baseline and target architectures to define potential roadmaps to deliver for our customers."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirements Management"
-    id="ea53dcee-59c2-4b2b-a535-4447e8a8f688"/>
+    id="ea53dcee-59c2-4b2b-a535-4447e8a8f688"
+    documentation="Requirements Management: Working with the Business Analysts and our stakeholders to capture and maintain the requirements across all of these phases."/>
