@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impact and Score"
+    id="3aab3700-b76f-472f-80d5-a331192be254"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_eba3a212-a5c6-460c-93d9-b278a48ca7ae.xml#eba3a212-a5c6-460c-93d9-b278a48ca7ae"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_6dc21555-beaf-4cc8-9ef9-037d316eaf08.xml#6dc21555-beaf-4cc8-9ef9-037d316eaf08"/>
+</archimate:AccessRelationship>
