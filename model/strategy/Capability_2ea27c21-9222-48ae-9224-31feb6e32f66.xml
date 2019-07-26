@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[I4] Deployment Management"
+    id="2ea27c21-9222-48ae-9224-31feb6e32f66"
+    documentation="To move new or changed hardware, software, documentation, processes, or any other component to live environments. It may also be involved in deploying components to other environments for testing or staging."/>

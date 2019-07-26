@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[I4] Service Configuration Management"
+    id="08df0496-e5b6-4b82-8f11-7bc1bc21c727"
+    documentation="To ensure that accurate and reliable information about the configuration of services, and the configuration items (CIs) that support them, is available when and where it is needed. This includes information on how CIs are configured and the relationships between them."/>
