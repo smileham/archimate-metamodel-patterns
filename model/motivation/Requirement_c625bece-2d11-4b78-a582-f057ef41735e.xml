@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Demand"
+    id="c625bece-2d11-4b78-a582-f057ef41735e"
+    documentation="Opportunity represents options or possibilities to add value for stakeholders or otherwise improve the organization. There may not be demand for these opportunities yet, but they can still trigger work within the system. Organizations should prioritize new or changed services with opportunities for improvement to ensure their resources are correctly allocated.&#xD;&#xA;&#xD;&#xA;Demand represents the need or desire for products and services from internal and external customers"/>
