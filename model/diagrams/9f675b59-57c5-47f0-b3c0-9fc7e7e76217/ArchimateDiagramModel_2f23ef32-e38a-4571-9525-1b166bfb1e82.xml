@@ -402,7 +402,7 @@
       targetConnections="f0df49c1-9b3c-4569-b505-d600cd333e16">
     <bounds
         x="24"
-        y="180"
+        y="168"
         width="121"
         height="61"/>
     <archimateElement
@@ -429,7 +429,7 @@
       targetConnections="caf34b78-27af-48c3-80bc-2e3b7aa53f15">
     <bounds
         x="180"
-        y="180"
+        y="168"
         width="121"
         height="61"/>
     <archimateElement
@@ -443,7 +443,7 @@
       textPosition="1">
     <bounds
         x="492"
-        y="180"
+        y="168"
         width="121"
         height="61"/>
     <archimateElement
