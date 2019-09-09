@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GDPR(e): Storage limitation"
+    id="1017a949-bf6c-4aca-9e96-3e250787f41f"
+    documentation="* You must not keep personal data for longer than you need it.&#xD;&#xA;* You need to think about – and be able to justify – how long you keep personal data. This will depend on your purposes for holding the data.&#xD;&#xA;* You need a policy setting standard retention periods wherever possible, to comply with documentation requirements.&#xD;&#xA;* You should also periodically review the data you hold, and erase or anonymise it when you no longer need it.&#xD;&#xA;* You must carefully consider any challenges to your retention of data. Individuals have a right to erasure if you no longer need the data.&#xD;&#xA;* You can keep personal data for longer if you are only keeping it for public interest archiving, scientific or historical research, or statistical purposes."/>

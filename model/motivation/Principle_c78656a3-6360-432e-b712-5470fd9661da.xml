@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GDPR(c): Data minimisation"
+    id="c78656a3-6360-432e-b712-5470fd9661da"
+    documentation="* You must ensure the personal data you are processing is:&#xD;&#xA;  * adequate – sufficient to properly fulfil your stated purpose;&#xD;&#xA;  * relevant – has a rational link to that purpose; and&#xD;&#xA;  * limited to what is necessary – you do not hold more than you need for that purpose."/>
