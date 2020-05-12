@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Don't Trust Services"
+    name="&lt;&lt;Security Principle>> Don't Trust Services"
     id="b305d587-7334-4a5f-8386-ebc594f8aa47"
     documentation="Many organizations utilize the processing capabilities of third party partners, who more than likely have differing security policies and posture than you. It is unlikely that you can influence or control any external third party, whether they are home users or major suppliers or partners.&#xD;&#xA;&#xD;&#xA;Therefore, implicit trust of externally run systems is not warranted. All external systems should be treated in a similar fashion.&#xD;&#xA;&#xD;&#xA;For example, a loyalty program provider provides data that is used by Internet Banking, providing the number of reward points and a small list of potential redemption items. However, the data should be checked to ensure that it is safe to display to end users, and that the reward points are a positive number, and not improbably large."/>

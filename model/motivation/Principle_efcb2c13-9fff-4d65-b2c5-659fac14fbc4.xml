@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Principle of least privilege"
+    name="&lt;&lt;Security Principle>> Principle of least privilege"
     id="efcb2c13-9fff-4d65-b2c5-659fac14fbc4"
     documentation="The principle of least privilege recommends that accounts have the least amount of privilege required to perform their business processes. This encompasses user rights, resource permissions such as CPU limits, memory, network, and file system permissions.&#xD;&#xA;&#xD;&#xA;For example, if a middleware server only requires access to the network, read access to a database table, and the ability to write to a log, this describes all the permissions that should be granted. Under no circumstances should the middleware be granted administrative privileges."/>

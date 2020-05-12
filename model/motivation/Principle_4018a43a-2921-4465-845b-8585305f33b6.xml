@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Establish Secure Defaults"
+    name="&lt;&lt;Security Principle>> Establish Secure Defaults"
     id="4018a43a-2921-4465-845b-8585305f33b6"
     documentation="There are many ways to deliver an “out of the box” experience for users. However, by default, the experience should be secure, and it should be up to the user to reduce their security – if they are allowed.&#xD;&#xA;&#xD;&#xA;For example, by default, password aging and complexity should be enabled. Users might be allowed to turn these two features off to simplify their use of the application and increase their risk."/>

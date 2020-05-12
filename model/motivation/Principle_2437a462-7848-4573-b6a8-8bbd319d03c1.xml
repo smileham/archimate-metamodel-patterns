@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Keep Security Simple"
+    name="&lt;&lt;Security Principle>> Keep Security Simple"
     id="2437a462-7848-4573-b6a8-8bbd319d03c1"
     documentation="Attack surface area and simplicity go hand in hand. Certain software engineering fads prefer overly complex approaches to what would otherwise be relatively straightforward and simple code.&#xD;&#xA;&#xD;&#xA;Developers should avoid the use of double negatives and complex architectures when a simpler approach would be faster and simpler.&#xD;&#xA;&#xD;&#xA;For example, although it might be fashionable to have a slew of singleton entity beans running on a separate middleware server, it is more secure and faster to simply use global variables with an appropriate mutex mechanism to protect against race conditions."/>

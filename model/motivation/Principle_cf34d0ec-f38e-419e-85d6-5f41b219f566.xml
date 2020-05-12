@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fix Security Issues Correctly"
+    name="&lt;&lt;Security Principle>> Fix Security Issues Correctly"
     id="cf34d0ec-f38e-419e-85d6-5f41b219f566"
     documentation="Once a security issue has been identified, it is important to develop a test for it, and to understand the root cause of the issue. When design patterns are used, it is likely that the security issue is widespread amongst all code bases, so developing the right fix without introducing regressions is essential.&#xD;&#xA;&#xD;&#xA;For example, a user has found that they can see another user’s balance by adjusting their cookie. The fix seems to be relatively straightforward, but as the cookie handling code is shared among all applications, a change to just one application will trickle through to all other applications. The fix must therefore be tested on all affected applications."/>
