@@ -1,0 +1,332 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brick Template"
+    id="_3a289e73-1b58-43d5-83db-2f4fa6a9f525">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_f2079f16-30f0-49b1-9b45-321da6841464"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Architectural Area"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="24"
+        width="169"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_f8d414dd-902b-4c1a-bed2-b885c619a965"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Brick"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="72"
+        width="169"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_430dab5a-5d51-4f17-af62-1cb32ac48fdf"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Description"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="120"
+        width="169"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_123bc686-a197-470b-a6bc-b72cbdc7bed4"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Dependency"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="168"
+        width="169"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_e1777ac6-bb4c-4f9e-86d9-c9bb345b39b1"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Baseline"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="216"
+        width="169"
+        height="265"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_9fa1b83e-c5d4-4f76-b4a2-d0b1a85d7837"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="1 Year Strategy (including any end of life plans)"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="480"
+        width="169"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_7ccdea5d-69a3-4a8a-979a-05bf523d60dd"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="2 Year Strategy (if different from above)"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="552"
+        width="169"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_e9184053-92d8-407a-9753-5601a3b1f3b1"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="5 Year Strategy (if different from above)"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="624"
+        width="169"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_9e295127-3aa5-42b9-8405-7528021e834b"
+      font="1|Open Sans|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Emerging Trends:&#xD;&#xA;* Things on the horizon"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="696"
+        width="169"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_31e6c496-4664-44a4-a2a0-fd44a0352b59"
+      font="1|Open Sans|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Containment Targets:&#xD;&#xA;* Things we need to run&#xD;&#xA;* No new uses"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="744"
+        width="169"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_1a2af852-cb58-4d90-8b5f-3abf0eb30475"
+      font="1|Open Sans|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Retirement Targets:&#xD;&#xA;* To be eliminated&#xD;&#xA;* End of life items&#xD;&#xA;* Things we want to stop doing"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="840"
+        width="169"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_65eccbc8-d9b1-4804-b904-babd5bcbdd70"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      content="Comments"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="24"
+        y="936"
+        width="169"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="_58a7c32a-ad9b-4d6b-98e3-c56e1f3151d7"
+      name="Baseline"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="192"
+        y="216"
+        width="961"
+        height="265"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_7fc467c8-dcca-4e41-b439-4fa8d6fed80c"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="192"
+        y="24"
+        width="961"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_4e2562b0-f791-4349-8031-2f1a290a806f"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="192"
+        y="72"
+        width="961"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_59f5d656-51b4-4b00-9d6d-13a3ff1cfa56"
+      font="1|Open Sans|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Open Sans"
+      textAlignment="1"
+      textPosition="1"
+      borderType="1">
+    <bounds
+        x="192"
+        y="120"
+        width="961"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_8e0573b0-9a32-474a-8de5-85294f69d728"
+      textAlignment="1"
+      content="* "
+      borderType="1">
+    <bounds
+        x="192"
+        y="168"
+        width="961"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_c3bce83f-0270-4679-8761-30b31a5bd2ac"
+      textAlignment="1"
+      content="* (Tactical)&#xD;&#xA;* (Short Term Planning)&#xD;&#xA;* (Where we PLAN on being)"
+      borderType="1">
+    <bounds
+        x="192"
+        y="480"
+        width="481"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_0ddd82bc-b297-4023-8732-f4da53c51402"
+      textAlignment="1"
+      content="* "
+      borderType="1">
+    <bounds
+        x="672"
+        y="480"
+        width="481"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_d3f998ba-1603-4194-97d9-7cd8a18ab3b3"
+      textAlignment="1"
+      content="* "
+      borderType="1">
+    <bounds
+        x="192"
+        y="552"
+        width="961"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_0cb3bfb9-bb46-4c49-bcf0-cc7f35230e2b"
+      textAlignment="1"
+      content="* (Strategic)&#xD;&#xA;* (Longer Term Planning)&#xD;&#xA;* (Where we WANT to be)"
+      borderType="1">
+    <bounds
+        x="192"
+        y="624"
+        width="961"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_caaacfa5-f67d-4290-98e3-ab732943bd96"
+      textAlignment="1"
+      content="* "
+      borderType="1">
+    <bounds
+        x="192"
+        y="696"
+        width="961"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="_31b7a292-f13b-4dbd-be43-eb72a758ea46"
+      name="Containment Targets"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="192"
+        y="744"
+        width="961"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="_59baf852-5abf-4fb3-a3b2-98d58f904a74"
+      name="RetirementTargets"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <bounds
+        x="192"
+        y="840"
+        width="961"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="_fe315d54-d46f-4982-a233-436703d4f2c1"
+      textAlignment="1"
+      borderType="1">
+    <bounds
+        x="192"
+        y="936"
+        width="961"
+        height="49"/>
+  </children>
+</archimate:ArchimateDiagramModel>
