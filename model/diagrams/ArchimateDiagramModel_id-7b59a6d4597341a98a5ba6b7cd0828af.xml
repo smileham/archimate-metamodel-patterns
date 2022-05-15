@@ -91,7 +91,8 @@
       <sourceConnections
           id="id-d39266c84b79454cb7c345174a9a0008"
           source="id-141c6946356b473988460dc3e5dcba34"
-          target="id-bddbf4a9156843d6952cf9cdbbfefafc">
+          target="id-bddbf4a9156843d6952cf9cdbbfefafc"
+          type="2">
         <bendpoints
             startX="-168"
             startY="54"
@@ -453,7 +454,8 @@
           <sourceConnections
               id="id-18a26f8f77cc41e9a38712501210f0d8"
               source="id-88a6a797a84c4320bdb7906a282d89fc"
-              target="id-141c6946356b473988460dc3e5dcba34">
+              target="id-141c6946356b473988460dc3e5dcba34"
+              type="2">
             <bendpoints
                 startX="-6"
                 startY="48"
