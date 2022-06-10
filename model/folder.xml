@@ -2,4 +2,29 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meta Model and Patterns"
     id="723b6dc3-1c32-41a5-a02b-6d27b40c34d8"
-    version="4.9.0"/>
+    version="4.9.0">
+  <profiles
+      name="not"
+      id="id-1a8b4a2aef5c45a1b8d3d9ee1e1a5186"
+      conceptType="AssociationRelationship"/>
+  <profiles
+      name="Software"
+      id="id-8ed3629c26684ce09fbdfeacf22ccec8"
+      imagePath="images/_ikNTIOiSEeyg46KKrjqaiA.png"
+      conceptType="Artifact"/>
+  <profiles
+      name="Script"
+      id="id-f63c8be3fffc4de7be2166703ce1107b"
+      imagePath="images/_IhGWkOiSEeyg46KKrjqaiA.png"
+      conceptType="Artifact"/>
+  <profiles
+      name="CSV"
+      id="id-fe04eb3b99494d8b89e8c1d95946ef7c"
+      imagePath="images/_yT1NsOiSEeyg46KKrjqaiA.png"
+      conceptType="Artifact"/>
+  <profiles
+      name="Folder"
+      id="id-777d8d389b454aa8a1be0404b5e73fbc"
+      imagePath="images/_IHu-4OiTEeyg46KKrjqaiA.png"
+      conceptType="Artifact"/>
+</archimate:ArchimateModel>

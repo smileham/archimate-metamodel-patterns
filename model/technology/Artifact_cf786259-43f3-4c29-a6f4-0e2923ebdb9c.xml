@@ -1,5 +1,8 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Archi 4.3.3 &lt;&lt;Software>>"
+    name="Archi 4.3.3"
     id="cf786259-43f3-4c29-a6f4-0e2923ebdb9c"
-    documentation="C:\Program Files\Archi4"/>
+    documentation="C:\Program Files\Archi4">
+  <profiles
+      href="folder.xml#id-8ed3629c26684ce09fbdfeacf22ccec8"/>
+</archimate:Artifact>

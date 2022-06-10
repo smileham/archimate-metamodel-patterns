@@ -1,5 +1,8 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Documentation &lt;&lt;Folder>>"
+    name="Documentation"
     id="a5ac0486-a672-4f19-84f8-45f158ae2519"
-    documentation="Local folder to store EA documentation."/>
+    documentation="Local folder to store EA documentation.">
+  <profiles
+      href="folder.xml#id-777d8d389b454aa8a1be0404b5e73fbc"/>
+</archimate:Artifact>

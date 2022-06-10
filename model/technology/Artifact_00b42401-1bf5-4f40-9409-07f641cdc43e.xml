@@ -1,5 +1,8 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="jArchi Plugin &lt;&lt;Software>>"
+    name="jArchi Plugin"
     id="00b42401-1bf5-4f40-9409-07f641cdc43e"
-    documentation="C:\Program Files\Archi4\plugins\com.archimatetool.script.commandline_0.4.3.201902121146.jar&#xD;&#xA;C:\Program Files\Archi4\plugins\com.archimatetool.script.premium_0.4.1.201902121146.jar&#xD;&#xA;C:\Program Files\Archi4\plugins\com.archimatetool.script_0.4.3.201902121146.jar"/>
+    documentation="C:\Program Files\Archi4\plugins\com.archimatetool.script.commandline_0.4.3.201902121146.jar&#xD;&#xA;C:\Program Files\Archi4\plugins\com.archimatetool.script.premium_0.4.1.201902121146.jar&#xD;&#xA;C:\Program Files\Archi4\plugins\com.archimatetool.script_0.4.3.201902121146.jar">
+  <profiles
+      href="folder.xml#id-8ed3629c26684ce09fbdfeacf22ccec8"/>
+</archimate:Artifact>

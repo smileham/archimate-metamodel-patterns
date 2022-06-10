@@ -1,5 +1,8 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MS Excel &lt;&lt;Software>>"
+    name="MS Excel"
     id="3d9cb13a-83e8-4951-8982-54d2aa9f5ee3"
-    documentation="C:\Program Files\MSOffice\Excel&#xD;&#xA;"/>
+    documentation="C:\Program Files\MSOffice\Excel&#xD;&#xA;">
+  <profiles
+      href="folder.xml#id-8ed3629c26684ce09fbdfeacf22ccec8"/>
+</archimate:Artifact>
